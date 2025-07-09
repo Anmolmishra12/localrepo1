@@ -1,0 +1,45 @@
+/* Setting background color of the whole page */
+body {
+  background-color: #f0f0f004; /* Light gray background */
+}
+
+/* Styling a heading */
+h1 {
+  color: navy; /* Navy blue text */
+  font-size: 2em; /* Large font size */
+  text-align: center; /* Center-align the text */
+  margin-top: 20px; /* Add some top margin */
+}
+
+/* Styling a paragraph */
+p {
+  color: #333333; /* Dark gray text */
+  font-size: 1.2em; /* Slightly larger font size */
+  line-height: 1.5; /* Set line height for readability */
+  margin-left: 10px; /* Add a left margin */
+}
+
+/* Styling a link */
+a {
+  color: blue; /* Blue link color */
+  text-decoration: none; /* Remove the underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Basic button styling */
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove the border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Add some padding */
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove the underline */
+  display: inline-block; /* Display as inline block */
+  font-size: 16px; /* Set font size */
+  margin: 4px 2px; /* Add some margin */
+  cursor: pointer; /* Change cursor on hover */
+  border-radius: 5px; /* Add rounded corners */
+}
